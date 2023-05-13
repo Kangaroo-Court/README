@@ -3,7 +3,7 @@
 `AI is Guilty Until Proven Innocent by Humans`
 
 # Human Owned Roles:
-- Defandant 
+- Defendant 
     > Deposits APE (future production will have other assets) and a Claim to which an oracle will "prove"
     > Starts a Court Proceeding (Mints a Batch of NFTs) to specified addresses
     > > Onchain tx
