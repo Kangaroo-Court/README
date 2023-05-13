@@ -1,27 +1,31 @@
 # Kangaroo Court 🦘
 
-"AI is Guilty Until Proven Innocent"
+"AI is Guilty Until Proven Innocent by Humans"
 
 # Human Owned Roles:
 - Defandant 
-    > Stakes Tokens and a Claim to which an oracle will "prove"
+    > Deposits APE (future production will have other assets) and a Claim to which an oracle will "prove"
     > Starts a Court Proceeding (Mints a Batch of NFTs) to specified addresses
 - Defence
     > Proposes a defandant's claim to be true (Not Guilty)
+    > Earns a fee for picking this up
 - Prosecutor
     > Disputes claims to be false (Guilty)
+    > Earns a fee for picking this up
 - Jury 1 
    >  Votes on Boolean (True / False)
+   >  Minted a POAP (pushed to future production)
 - Jury 2
    >  Votes on Boolean (True / False)
+   >  Minted a POAP (pushed to future production)
 - Jury 3
    >  Votes on Boolean (True / False)
+   >  Minted a POAP (pushed to future production)
 - Judge
-   >  Final Proceeding on True / False 
-   >  Assigns TimeLock of Staked Asset (0 if True) 
+   >  Final Proceeding on Not Guilty / Guilty 
+   >  Assigns TimeLock of Staked Asset (Forced 0 if Not Guilty) 
 - Bailiff
-  >   Slashes Claim if False
-   >  Allows Claim if True 
+   > Executes Judge's Final Verdict by Signing the TX
     
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Linea blockchain. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
