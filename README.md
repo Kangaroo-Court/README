@@ -44,7 +44,7 @@
 ### Defandant Earns some yield if Not Guilty (pushed to future production)
 
 # Socials 
-    [Twitter](https://twitter.com/KangarooCourtAI)
+   [Twitter](https://twitter.com/KangarooCourtAI)
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Linea blockchain. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
