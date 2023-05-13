@@ -59,6 +59,7 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 > Role Based NFTs for 
 - [Front End](https://github.com/Kangaroo-Court/kc-frontend)
 > Next.js framework for interacting with the smart contracts
+> Based on the [Figma](https://www.figma.com/file/ttwtDiCW7wKOB6oUSGTY4K/KANGA?type=design&node-id=0%3A1&t=K5ejs8hsAv3bXMUR-1)
 
 ## How its made: 
 
