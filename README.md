@@ -1,10 +1,13 @@
 # Kangaroo Court 🦘
 
-# Players
+"AI is Guilty Until Proven Innocent"
+
+# Human Owned Roles:
 - Defandant 
-    > Stakes a Claim to which an oracle will "prove"
+    > Stakes Tokens and a Claim to which an oracle will "prove"
+    > Starts a Court Proceeding (Mints a Batch of NFTs) to specified addresses
 - Defence
-    > Proposes a defanant's claim to be true (Not Guilty)
+    > Proposes a defandant's claim to be true (Not Guilty)
 - Prosecutor
     > Disputes claims to be false (Guilty)
 - Jury 1 
@@ -15,7 +18,8 @@
    >  Votes on Boolean (True / False)
 - Judge
    >  Final Proceeding on True / False 
-- Balif
+   >  Assigns TimeLock of Staked Asset (0 if True) 
+- Bailiff
   >   Slashes Claim if False
    >  Allows Claim if True 
     
