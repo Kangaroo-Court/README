@@ -4,7 +4,7 @@
 
 # Human Owned Roles:
 - Defendant 
-    > Deposits APE (future production will have other assets) and a Claim to which an oracle will "prove"
+    > Deposits OPGETH (APE to be available on future production along with other assets) and Claim that APE is DEAD or NOT DEAD
     > Starts a Court Proceeding (Mints a Batch of NFTs) to specified addresses
     > > Onchain tx
 - Defense
