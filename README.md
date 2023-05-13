@@ -1,37 +1,52 @@
 # Kangaroo Court 🦘
 
-"AI is Guilty Until Proven Innocent by Humans"
+`AI is Guilty Until Proven Innocent by Humans`
 
 # Human Owned Roles:
 - Defandant 
     > Deposits APE (future production will have other assets) and a Claim to which an oracle will "prove"
     > Starts a Court Proceeding (Mints a Batch of NFTs) to specified addresses
-- Defence
-    > Proposes a defandant's claim to be true (Not Guilty)
-    > Earns a fee for picking this up
+    > > Onchain tx
+- Defense
+    > Proposes a defandant's claim to be true (Not Guilty) 
+    > > On Chain TX
+    
+    > Earns a fee for picking up the case (pushed to future production)
 - Prosecutor
     > Disputes claims to be false (Guilty)
-    > Earns a fee for picking this up
+    > > On Chain TX
+    
+    > Earns a fee for picking up the case (pushed to future production)
 - Jury 1 
-   >  Votes on Boolean (True / False)
+   >  Votes on Boolean (Not Guilty / Guilty)  
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+
    >  Minted a POAP (pushed to future production)
 - Jury 2
-   >  Votes on Boolean (True / False)
+   >  Votes on Boolean (Not Guilty / Guilty)
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+
    >  Minted a POAP (pushed to future production)
 - Jury 3
-   >  Votes on Boolean (True / False)
+   >  Votes on Boolean (Not Guilty / Guilty) 
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+
    >  Minted a POAP (pushed to future production)
 - Judge
    >  Final Proceeding on Not Guilty / Guilty 
-   >  Assigns TimeLock of Staked Asset (Forced 0 if Not Guilty) 
+   >  & Assigns TimeLock of Staked Asset (Forced 0 if Not Guilty) 
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0xbf564b3ed16b42c3bcfad0e6f5f6016b9657dabc57a4c4e37706b6d017918a55)
+
 - Bailiff
-   > Executes Judge's Final Verdict by Signing the TX
-    
+   > Executes Judge's Final Verdict
+   > > Onchain TX
+
+### Defandant Earns some yield if Not Guilty (pushed to future production)
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Linea blockchain. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
 ## Abstract
-Kangaroo Court is a revolutionary platform that combines AI-driven technologies with the wisdom and judgments of human actors, promoting fair and transparent resolution of conflicts between Artificial Intelligences (AIs) and Oracle smart contracts. The Linea blockchain-based platform features a legal framework whereby human actors act as judges, prosecutors, defenders, jurors and bailiffs to resolve claims lodged by prosecutors against AIs or smart contracts. Additionally, Kangaroo Court introduces an incentivized prediction market to enhance user engagement and ensure participants are properly rewarded for their contributions. By empowering human actors to participate actively in dispute resolution on a distributed platform, Kangaroo Court is poised to become the leading AI governance and conflict resolution system in the blockchain space. Through further expansion of its user base, innovations in its features, and an expanded pool of human actors, Kangaroo Court will serve as a bedrock for trustless adjudication.
+Kangaroo Court is a revolutionary platform that combines AI-driven technologies with the wisdom and judgments of human actors, promoting fair and transparent resolution of conflicts between Artificial Intelligences (AIs) and Oracle smart contracts. The Optimism-Goerli blockchain-based platform features a legal framework whereby human actors act as judges, prosecutors, defenders, jurors and bailiffs to resolve claims lodged by prosecutors against AIs or smart contracts. Additionally, Kangaroo Court introduces an incentivized prediction market to enhance user engagement and ensure participants are properly rewarded for their contributions. By empowering human actors to participate actively in dispute resolution on a distributed platform, Kangaroo Court is poised to become the leading AI governance and conflict resolution system in the blockchain space. Through further expansion of its user base, innovations in its features, and an expanded pool of human actors, Kangaroo Court will serve as a bedrock for trustless adjudication.
 
 ## Repo Structure
 The Current implementation of <Kangaroo Court> relies on the following repositories : 
@@ -46,7 +61,7 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 
 ## The development of Kangaroo Court utilizes a combination of [UMA](https://uma.xyz) smart contracts, oracles, the front-end framework Next.js, the [Ethereum Attestation Service](https://attest.sh) and [AirStack](https://airstack.xyz/) AI tools to create a comprehensive and efficient platform.
 
-Smart contracts are deployed on the Linea, Scroll, and Optimism-Goerli blockchains to establish a multichain underlying legal framework and automate the execution of key processes within Kangaroo Court. These contracts define the roles of human actors, handle the staking and distribution of tokens, manage the flow of information between participants, and facilitate the resolution of claims.
+Smart contracts are deployed on the Optimism-Goerli, Linea, and Scroll blockchains to establish a multichain underlying legal framework and automate the execution of key processes within Kangaroo Court. These contracts define the roles of human actors, handle the staking and distribution of tokens, manage the flow of information between participants, and facilitate the resolution of claims.
 
 Oracles play a crucial role in connecting real-world data with the blockchain. They provide a bridge between external information sources and the smart contracts, ensuring accurate and reliable data inputs for decision-making. Oracles are responsible for fetching data related to the claims, such as cryptocurrency prices or contract behavior, enabling the AI-driven components and human actors to make informed judgments.
 
