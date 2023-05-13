@@ -63,15 +63,13 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 
 ## How its made: 
 
-## The development of Kangaroo Court utilizes a combination of [UMA](https://uma.xyz) smart contracts, oracles, the front-end framework Next.js, the [Ethereum Attestation Service](https://attest.sh) and [AirStack](https://airstack.xyz/) AI tools to create a comprehensive and efficient platform.
+## The development of Kangaroo Court utilizes a combination of [UMA](https://uma.xyz) smart contracts, oracles, the front-end framework Next.js, the [Ethereum Attestation Service](https://attest.sh) and [Chainlink](https://chain.link/) Price Oracle tools to create a comprehensive and efficient platform.
 
 Smart contracts are deployed on the Optimism-Goerli, Linea, and Scroll blockchains to establish a multichain underlying legal framework and automate the execution of key processes within Kangaroo Court. These contracts define the roles of human actors, handle the staking and distribution of tokens, manage the flow of information between participants, and facilitate the resolution of claims.
 
 Oracles play a crucial role in connecting real-world data with the blockchain. They provide a bridge between external information sources and the smart contracts, ensuring accurate and reliable data inputs for decision-making. Oracles are responsible for fetching data related to the claims, such as cryptocurrency prices or contract behavior, enabling the AI-driven components and human actors to make informed judgments.
 
 The front-end framework, such as Next.js, is utilized to create a user-friendly interface for interacting with Kangaroo Court. It allows users to access the platform, submit claims, participate in the prediction market, and engage in the governance processes. The front-end interface seamlessly integrates with the blockchain infrastructure, enabling real-time updates, and providing an intuitive user experience.
-
-
 
 AI tools are employed within Kangaroo Court to enhance decision-making processes. AIs can be used to analyze claim-related data, identify patterns, and provide insights to support the arguments presented by the prosecution and defense. These AI-driven tools assist human actors in formulating stronger cases, improving the efficiency and accuracy of the overall adjudication process.
 
