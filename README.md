@@ -42,6 +42,9 @@
    > > Onchain TX
 
 ### Defandant Earns some yield if Not Guilty (pushed to future production)
+
+# Socials 
+    [Twitter](https://twitter.com/KangarooCourtAI)
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Linea blockchain. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
@@ -66,6 +69,8 @@ Smart contracts are deployed on the Optimism-Goerli, Linea, and Scroll blockchai
 Oracles play a crucial role in connecting real-world data with the blockchain. They provide a bridge between external information sources and the smart contracts, ensuring accurate and reliable data inputs for decision-making. Oracles are responsible for fetching data related to the claims, such as cryptocurrency prices or contract behavior, enabling the AI-driven components and human actors to make informed judgments.
 
 The front-end framework, such as Next.js, is utilized to create a user-friendly interface for interacting with Kangaroo Court. It allows users to access the platform, submit claims, participate in the prediction market, and engage in the governance processes. The front-end interface seamlessly integrates with the blockchain infrastructure, enabling real-time updates, and providing an intuitive user experience.
+
+
 
 AI tools are employed within Kangaroo Court to enhance decision-making processes. AIs can be used to analyze claim-related data, identify patterns, and provide insights to support the arguments presented by the prosecution and defense. These AI-driven tools assist human actors in formulating stronger cases, improving the efficiency and accuracy of the overall adjudication process.
 
