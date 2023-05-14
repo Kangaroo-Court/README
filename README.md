@@ -45,6 +45,8 @@
 
 # Socials 
    [Twitter](https://twitter.com/KangarooCourtAI)
+   [Telegram](https://t.me/kangaroocourtai)
+   [Youtube](https://www.youtube.com/@KangarooCourtAI)
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Optimism-Goerli, Linea, Scroll and Goerli blockchains. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
@@ -88,3 +90,7 @@ The front-end framework, such as Next.js, is utilized to create a user-friendly 
 AI tools are employed within Kangaroo Court to enhance decision-making processes. AIs can be used to analyze claim-related data, identify patterns, and provide insights to support the arguments presented by the prosecution and defense. These AI-driven tools assist human actors in formulating stronger cases, improving the efficiency and accuracy of the overall adjudication process.
 
 By combining smart contracts, oracles, a front-end framework like Next.js, and AI tools, Kangaroo Court achieves a powerful and comprehensive platform. The smart contracts provide the foundation for the legal processes, while oracles ensure the accuracy and reliability of external data. The front-end framework enhances user interaction and accessibility, while AI tools augment decision-making capabilities. Together, these components create a robust ecosystem that promotes fair and efficient conflict resolution between AIs and Oracle smart contracts, while engaging users through the prediction market and incentivized participation.
+    
+    
+## Forward Plans
+    We would be thrilled if this became a project that continues onward to be the standard for such things. If that comes into the winds we would build the remaning fuctions mentioned above as well as a well formulated RESTful API with documentation to spec for the entire protocol. 
