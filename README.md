@@ -60,6 +60,15 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 - [Front End](https://github.com/Kangaroo-Court/kc-frontend)
 > Next.js framework for interacting with the smart contracts
 > Based on the [Figma](https://www.figma.com/file/ttwtDiCW7wKOB6oUSGTY4K/KANGA?type=design&node-id=0%3A1&t=K5ejs8hsAv3bXMUR-1)
+    
+## Smart Contract Locations
+- Optimism-Goerli
+    > [NFT](https://goerli-optimism.etherscan.io/token/0xa70c15571aa9dfcab960dca494bd7c99bccc79ab)
+    > [Oracle](https://goerli-optimism.etherscan.io/) 
+- Scroll
+    > [NFT](https://blockscout.scroll.io/address/0x04B022a51E4413181D8BeF4C06eC642a2C107e3F/tokens/0xd80c08aa35c57c54c2abb59264a5185e5b0f764b/token-transfers#address-tabs)
+- Linea
+    > [NFT]([https://explorer.goerli.linea.build/](https://explorer.goerli.linea.build/address/0xBB9C4401D615F502581396f82931C7e9a46853B1))
 
 ## How its made: 
 
