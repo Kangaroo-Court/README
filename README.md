@@ -47,6 +47,7 @@
    [Twitter](https://twitter.com/KangarooCourtAI)
    [Telegram](https://t.me/kangaroocourtai)
    [Youtube](https://www.youtube.com/@KangarooCourtAI)
+   [Discord](https://discord.gg/s5XDKGAFkg)
     
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Optimism-Goerli, Linea, Scroll and Goerli blockchains. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
