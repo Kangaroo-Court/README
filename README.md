@@ -2,6 +2,13 @@
 
 `AI is Guilty Until Proven Innocent by Humans`
 
+# Get Started
+
+Read the WhitePaper [Here](https://nftstorage.link/ipfs/bafybeidhkk3xn2vqu5ah2tvuetjw5rtnc55uadmvomhsst6rt7testtmhu)
+
+
+# Understanding the model 
+
 # Human Owned Roles:
 - Defendant 
     > Deposits OPGETH (APE to be available on future production along with other assets) and Claim that APE is DEAD or NOT DEAD
