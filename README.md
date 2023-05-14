@@ -5,7 +5,9 @@
 # Get Started
 
 Read the WhitePaper [Here](https://nftstorage.link/ipfs/bafybeidhkk3xn2vqu5ah2tvuetjw5rtnc55uadmvomhsst6rt7testtmhu)
+
 See our Walkthrough Deck [Here](https://nftstorage.link/ipfs/bafybeihcyeqrjzoruawu4g4yfydjs75nabrhoz3apw7t2pjzgrahshbtgm)
+
 Watch our Video Walkthrough [Here](https://youtu.be/Yo6IA5yI3oc)
 
 
