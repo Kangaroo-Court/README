@@ -5,6 +5,8 @@
 # Get Started
 
 Read the WhitePaper [Here](https://nftstorage.link/ipfs/bafybeidhkk3xn2vqu5ah2tvuetjw5rtnc55uadmvomhsst6rt7testtmhu)
+See our Walkthrough Deck [Here](https://nftstorage.link/ipfs/bafybeihcyeqrjzoruawu4g4yfydjs75nabrhoz3apw7t2pjzgrahshbtgm)
+Watch our Video Walkthrough [Here](https://youtu.be/Yo6IA5yI3oc)
 
 
 # Understanding the model 
@@ -59,7 +61,7 @@ Read the WhitePaper [Here](https://nftstorage.link/ipfs/bafybeidhkk3xn2vqu5ah2tv
 ### AI meets human wisdom. Resolve AI-Oracle conflicts fairly. Human judges, prosecutors, defenders, jurors, and bailiffs on Optimism-Goerli, Linea, Scroll and Goerli blockchains. Incentivized prediction market. Empowering governance and dispute resolution. Leading AI conflict resolution on blockchain. 
  
 ## Abstract
-Kangaroo Court is a revolutionary platform that combines AI-driven technologies with the wisdom and judgments of human actors, promoting fair and transparent resolution of conflicts between Artificial Intelligences (AIs) and Oracle smart contracts. The Optimism-Goerli blockchain-based platform features a legal framework whereby human actors act as judges, prosecutors, defenders, jurors and bailiffs to resolve claims lodged by prosecutors against AIs or smart contracts. Additionally, Kangaroo Court introduces an incentivized prediction market to enhance user engagement and ensure participants are properly rewarded for their contributions. By empowering human actors to participate actively in dispute resolution on a distributed platform, Kangaroo Court is poised to become the leading AI governance and conflict resolution system in the blockchain space. Through further expansion of its user base, innovations in its features, and an expanded pool of human actors, Kangaroo Court will serve as a bedrock for trustless adjudication.
+Kangaroo Court is a revolutionary platform that combines AI-driven technologies with the wisdom and judgments of human actors, promoting fair and transparent resolution of conflicts between Artificial Intelligences (AIs) and smart contracts. The Optimism-Goerli blockchain-based platform features a legal framework whereby human actors act as judges, prosecutors, defenders, jurors and bailiffs to resolve claims lodged by prosecutors against AIs or smart contracts. Additionally, Kangaroo Court introduces an incentivized prediction market to enhance user engagement and ensure participants are properly rewarded for their contributions. By empowering human actors to participate actively in dispute resolution on a distributed platform, Kangaroo Court is poised to become the leading AI governance and conflict resolution system in the blockchain space. Through further expansion of its user base, innovations in its features, and an expanded pool of human actors, Kangaroo Court will serve as a bedrock for trustless adjudication.
 
 ## Repo Structure
 The Current implementation of <Kangaroo Court> relies on the following repositories : 
