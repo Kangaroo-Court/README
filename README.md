@@ -19,17 +19,17 @@
     > Earns a fee for picking up the case (pushed to future production)
 - Jury 1 
    >  Votes on Boolean (Not Guilty / Guilty)  
-   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0xb50db0f640c9e9d6f22efa9ac2cdb347d62a8253ccbd0a8cbaa1b42bf85b28f4)
 
    >  Minted a POAP (pushed to future production)
 - Jury 2
    >  Votes on Boolean (Not Guilty / Guilty)
-   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0xfdf312958f2f6e8ebea5130060e3c902d84ad66084cf1277610d16f503876221)
 
    >  Minted a POAP (pushed to future production)
 - Jury 3
    >  Votes on Boolean (Not Guilty / Guilty) 
-   > > This is an [Attestation](https://optimism-goerli.easscan.org/schema/view/0x56c13171ec212b1bd36ca786b7ed53678a03136863c85063ec0fa23f15e8fcee)
+   > > This is an [Attestation]()
 
    >  Minted a POAP (pushed to future production)
 - Judge
