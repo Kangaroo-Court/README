@@ -93,4 +93,7 @@ By combining smart contracts, oracles, a front-end framework like Next.js, and A
     
     
 ## Forward Plans
-    We would be thrilled if this became a project that continues onward to be the standard for such things. If that comes into the winds we would build the remaning fuctions mentioned above as well as a well formulated RESTful API with documentation to spec for the entire protocol. 
+    
+We would be thrilled if this became a project that continues onward to be the standard for such things. 
+
+If that comes into the winds we would build the remaning fuctions mentioned above as well as a well formulated RESTful API with documentation to spec for the entire protocol. 
