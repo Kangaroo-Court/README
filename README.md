@@ -64,17 +64,22 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 ## Smart Contract Locations
 - Optimism-Goerli
     > [NFT](https://goerli-optimism.etherscan.io/token/0xa70c15571aa9dfcab960dca494bd7c99bccc79ab)
+
     > [Oracle](https://goerli-optimism.etherscan.io/) 
 - Scroll
     > [NFT](https://blockscout.scroll.io/address/0x04B022a51E4413181D8BeF4C06eC642a2C107e3F/tokens/0xd80c08aa35c57c54c2abb59264a5185e5b0f764b/token-transfers#address-tabs)
+    
+    > [Oracle]()
 - Linea
     > [NFT](https://explorer.goerli.linea.build/address/0xBB9C4401D615F502581396f82931C7e9a46853B1)
+    
+    > [Oracle]()
 
 ## How its made: 
 
-## The development of Kangaroo Court utilizes a combination of [UMA](https://uma.xyz) smart contracts, oracles, the front-end framework Next.js, the [Ethereum Attestation Service](https://attest.sh) and [Chainlink](https://chain.link/) Price Oracle tools to create a comprehensive and efficient platform.
+## The development of Kangaroo Court utilizes a combination of [UMA](https://uma.xyz) smart contracts, oracles, the front-end framework Next.js, the [Ethereum Attestation Service](https://attest.sh) and [Chainlink](https://chain.link/) Price Oracle sourced from [TheGraph](https://thegraph.com/hosted-service/subgraph/openpredict/chainlink-prices-subgraph) tools to create a comprehensive and efficient platform.
 
-Smart contracts are deployed on the Optimism-Goerli, Linea, and Scroll blockchains to establish a multichain underlying legal framework and automate the execution of key processes within Kangaroo Court. These contracts define the roles of human actors, handle the staking and distribution of tokens, manage the flow of information between participants, and facilitate the resolution of claims.
+Smart contracts are deployed on the [Optimism-Goerli](https://goerli-optimism.etherscan.io/token/0xa70c15571aa9dfcab960dca494bd7c99bccc79ab), [Linea](https://explorer.goerli.linea.build/address/0xBB9C4401D615F502581396f82931C7e9a46853B1), and [Scroll](https://blockscout.scroll.io/address/0x04B022a51E4413181D8BeF4C06eC642a2C107e3F/tokens/0xd80c08aa35c57c54c2abb59264a5185e5b0f764b/token-transfers#address-tabs) blockchains to establish a multichain underlying legal framework and automate the execution of key processes within Kangaroo Court. These contracts define the roles of human actors, handle the staking and distribution of tokens, manage the flow of information between participants, and facilitate the resolution of claims.
 
 Oracles play a crucial role in connecting real-world data with the blockchain. They provide a bridge between external information sources and the smart contracts, ensuring accurate and reliable data inputs for decision-making. Oracles are responsible for fetching data related to the claims, such as cryptocurrency prices or contract behavior, enabling the AI-driven components and human actors to make informed judgments.
 
