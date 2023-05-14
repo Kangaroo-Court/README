@@ -68,7 +68,7 @@ The Current implementation of <Kangaroo Court> relies on the following repositor
 - Scroll
     > [NFT](https://blockscout.scroll.io/address/0x04B022a51E4413181D8BeF4C06eC642a2C107e3F/tokens/0xd80c08aa35c57c54c2abb59264a5185e5b0f764b/token-transfers#address-tabs)
 - Linea
-    > [NFT]([https://explorer.goerli.linea.build/](https://explorer.goerli.linea.build/address/0xBB9C4401D615F502581396f82931C7e9a46853B1))
+    > [NFT](https://explorer.goerli.linea.build/](https://explorer.goerli.linea.build/address/0xBB9C4401D615F502581396f82931C7e9a46853B1)
 
 ## How its made: 
 
